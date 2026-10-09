@@ -1,2 +1,0 @@
-# FamilyBudgetApp
-Spencer Family Budget
